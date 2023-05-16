@@ -1,0 +1,2 @@
+% The plot of surface and 'axial'/'saggital'/'coronal' images in Fig3 were similar to Fig2A (CanlabCore);
+% and the brain activation images were plotted using the brain_activation_wani(cocoanCORE) function.
